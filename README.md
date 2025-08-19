@@ -7,7 +7,7 @@ Descripción: Este proyecto en Java permite convertir monedas en tiempo real uti
 
 Objetivos de Aprendizaje:
 
-Consumo de APIs REST mediante Java HttpClient.
+Consumo de API.
 
 Procesamiento de respuestas JSON con la biblioteca Gson.
 
