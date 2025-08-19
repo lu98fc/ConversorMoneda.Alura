@@ -33,18 +33,30 @@ Captura de pantalla
 ¡Y listo! El conversor se abrirá.
 
 🧰 Requisitos
-Java 17 o superior
+
+Java 17 o superior.
+
 IntelliJ IDEA (Community Edition es suficiente)
+
 Conexión a internet (para que Maven descargue las dependencias)
+
 🔍 ¿Qué tecnologías usé?
+
 💻 JavaFX – para construir la interfaz gráfica
+
 🧱 Maven – para la gestión de dependencias
+
 🧼 Código limpio y modular, ideal para quienes están aprendiendo
+
 🙌 ¿Te gustó el proyecto?
+
 ⭐ Dale una estrella al repo
+
 🔁 Forkéalo, mejóralo, experiméntalo
-📢 Si haces algo genial con él, ¡me encantaría verlo!
+
 
 📄 Licencia
-Este proyecto se distribuye bajo la licencia MIT. Puedes usarlo, modificarlo y compartirlo con libertad (¡y responsabilidad!).
+Este proyecto se distribuye bajo la licencia MIT.
+
+Puedes usarlo, modificarlo y compartirlo con libertad (¡y responsabilidad!).
 
